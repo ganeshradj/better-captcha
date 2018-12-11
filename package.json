@@ -1,5 +1,5 @@
 {
-  "name": "easy-captcha",
+  "name": "better-captcha",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ganeshradj/easy-captcha.git"
+    "url": "git+https://github.com/ganeshradj/better-captcha.git"
   },
   "keywords": [
-    "easy-captcha"
+    "better-captcha"
   ],
   "author": "Ganesh ganeshradj@gmail.com",
   "bugs": {
-    "url": "https://github.com/ganeshradj/easy-captcha/issues",
+    "url": "https://github.com/ganeshradj/better-captcha/issues",
     "email":"ganeshradj@gmail.com"
   },
-  "homepage": "https://github.com/ganeshradj/easy-captcha",
+  "homepage": "https://github.com/ganeshradj/better-captcha",
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.2.0",

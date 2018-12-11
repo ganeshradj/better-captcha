@@ -1,1 +1,1 @@
-module.exports = require('./lib/easy-captcha');
+module.exports = require('./lib/better-captcha');
