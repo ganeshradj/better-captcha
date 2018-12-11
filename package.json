@@ -6,6 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshradj/easy-captcha.git"
+  },
+  "keywords": [
+    "easy-captcha"
+  ],
+  "author": "Ganesh ganeshradj@gmail.com",
+  "bugs": {
+    "url": "https://github.com/ganeshradj/easy-captcha/issues",
+    "email":"ganeshradj@gmail.com"
+  },
+  "homepage": "https://github.com/ganeshradj/easy-captcha",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.2.0",
+    "crypto": "^1.0.1"
+  }
 }
