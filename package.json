@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ganeshradj/better-captcha",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.2.0",
+    "canvas": "^1.6.11",
     "crypto": "^1.0.1"
   }
 }
